@@ -1,0 +1,28 @@
+.login_body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f9f5f1;
+}
+
+.border_box {
+  width: 100%;
+  padding: 15px;
+}
+.icon_style {
+  margin-bottom: 30px;
+}
+.login_submit {
+  background-color: #5622d4 !important;
+  border-radius: 20px !important;
+  width: 35ch;
+  text-transform: none !important;
+}
+.button-data-link {
+  margin: 10px;
+}
+.button_fp {
+  color: blueviolet;
+  text-decoration: none;
+}
