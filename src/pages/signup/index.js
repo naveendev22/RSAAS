@@ -252,6 +252,9 @@ export default function Signup(props) {
                         "&.Mui-focused fieldset": {
                           border: "2px solid blueviolet",
                         },
+                        "&.Mui-error fieldset": {
+                          border: "2px solid red",
+                        },
                       },
                     }}
                   ></TextField>
@@ -291,6 +294,9 @@ export default function Signup(props) {
                         "&.Mui-focused fieldset": {
                           border: "2px solid blueviolet",
                         },
+                        "&.Mui-error fieldset": {
+                          border: "2px solid red",
+                        },
                       },
                     }}
                   ></TextField>
@@ -328,6 +334,9 @@ export default function Signup(props) {
                         },
                         "&.Mui-focused fieldset": {
                           border: "2px solid blueviolet",
+                        },
+                        "&.Mui-error fieldset": {
+                          border: "2px solid red",
                         },
                       },
                     }}
@@ -385,6 +394,9 @@ export default function Signup(props) {
                         "&.Mui-focused fieldset": {
                           border: "2px solid blueviolet",
                         },
+                        "&.Mui-error fieldset": {
+                          border: "2px solid red",
+                        },
                       },
                     }}
                   ></TextField>
@@ -425,6 +437,9 @@ export default function Signup(props) {
                         },
                         "&.Mui-focused fieldset": {
                           border: "2px solid blueviolet",
+                        },
+                        "&.Mui-error fieldset": {
+                          border: "2px solid red",
                         },
                       },
                     }}

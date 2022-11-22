@@ -173,6 +173,9 @@ const Login = (props) => {
                       "&.Mui-focused fieldset": {
                         border: "2px solid blueviolet",
                       },
+                      "&.Mui-error fieldset": {
+                        border: "2px solid red",
+                      },
                     },
                   }}
                 ></TextField>
@@ -210,6 +213,9 @@ const Login = (props) => {
                       },
                       "&.Mui-focused fieldset": {
                         border: "2px solid blueviolet",
+                      },
+                      "&.Mui-error fieldset": {
+                        border: "2px solid red",
                       },
                     },
                   }}
